@@ -46,3 +46,9 @@ group :development do
   # gem "spring"
 end
 
+
+gem "active_model_serializers", "~> 0.10.13"
+gem "awesome_print", "~> 1.9"
+gem "faker", "~> 3.2"
+gem "pry", "~> 0.14.2"
+gem "pry-rails", "~> 0.3.9"
